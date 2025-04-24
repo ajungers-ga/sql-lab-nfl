@@ -72,7 +72,12 @@ FROM players
 ORDER BY salary DESC
 LIMIT 1;
 
+-- 9. Continued, thanks for the help, Dad! 
+-- (Though 'max' needs to be capitilized for this to run properly, I'll let it slide and we can blame it on the rust since your retirement!)
 
+-- SELECT name, position, salary
+-- FROM players
+-- WHERE salary = SELECT max(salary) FROM players;
 
 
 -- 10. The name and position of the first 100 players with the lowest salaries
