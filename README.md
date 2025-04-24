@@ -20,6 +20,16 @@ The objective: extract structured insights through aggregate functions, filters,
 
 ---
 
+### View the SQL Lab series:
+
+- Lab 1 – Find Carmen: https://github.com/ajungers-ga/sql-lab-carmen  
+- Lab 2 – Computers & Televisions: https://github.com/ajungers-ga/sql-lab-computers-televisions  
+- Lab 3 – Realty: https://github.com/ajungers-ga/sql-lab-realty  
+- Lab 4 – NFL: https://github.com/ajungers-ga/sql-lab-nfl  
+- Lab 5 – Flights: https://github.com/ajungers-ga/sql-lab-flights  
+
+---
+
 ## What I Practiced
 
 - Executing a provided schema and loading seed data with `psql`
