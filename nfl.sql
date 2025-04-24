@@ -98,8 +98,23 @@ FROM players
 JOIN teams ON players.team_id = teams.id
 WHERE teams.name = 'Buffalo Bills';
 
+
+
+
 -- 13. The total salary of all players on the New York Giants
+SELECT players.name
+FROM players
+JOIN teams ON players.team_id = teams.id
+WHERE teams.name = 'Buffalo Bills';
   
 
+
+
 -- 14. The player with the lowest salary on the Green Bay Packers
+SELECT players.name, players.salary
+FROM players
+JOIN teams ON players.team_id = teams.id
+WHERE teams.name = 'Green Bay Packers'
+ORDER BY players.salary ASC
+LIMIT 1;
  
