@@ -11,6 +11,7 @@ THIS HAS BEEN MY FAVORITE LAB OF THE SERIES! As a NFL stats nerd, this was so mu
 Crazy stat: Tom Brady had a cap hit of $950k in the 2014 NFL season. Furthermore, at the time, Drew Brees ($15,760,000) and Peyton Manning($18,000,000) were taking monster hits to the SALARY CAP against their team.
 
 What happens when the best player in the world takes a pay cut so the team can add MORE talent around him?
+
 9 SB appearances and 6 SB wins with the Patriots.
 
 The objective: extract structured insights through aggregate functions, filters, sorting, and multi-table joins.
