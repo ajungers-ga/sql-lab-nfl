@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is **Lab 4** of 5 in the Unit 4 SQL series from my General Assembly software engineering program.
+This project is **Lab 4** of 5 in the Unit 4 SQL series from my General Assembly software engineering program. 
 
 While Lab 1 ([Carmen Sandiego SQL Lab](https://github.com/ajungers-ga/sql-lab-carmen)) focused on solving clues through data exploration, and Lab 2 ([Computers & Televisions](https://github.com/ajungers-ga/sql-lab-computers-televisions)) was about building and modifying schema structures, **this lab challenged me to query a prebuilt relational database of NFL teams and players**. 
 
@@ -13,6 +13,8 @@ Crazy stat: Tom Brady had a cap hit of $950k in the 2014 NFL season. Furthermore
 What happens when the best player in the world takes a pay cut so the team can add MORE talent around him?
 
 9 SB appearances and 6 SB wins with the Patriots.
+
+I had to call in a lifeline for number 9.... thanks for the help, Dad!
 
 The objective: extract structured insights through aggregate functions, filters, sorting, and multi-table joins.
 
